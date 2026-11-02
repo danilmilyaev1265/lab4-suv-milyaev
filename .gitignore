@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# JetBrains IDE: personal workspace state
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/shelf/
